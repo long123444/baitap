@@ -1,4 +1,4 @@
-package hinhhoc;
+
 
 public class tugiac {
     public static void main(String[] args) {
