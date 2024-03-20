@@ -23,5 +23,8 @@ public class hinhtron {
      public void inDienTich(){
         System.out.println(" Dien Tich hinh tron : " +DienTich );
 
-}}}
+}
+}
+}
+
 
