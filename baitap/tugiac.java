@@ -1,13 +1,12 @@
-
+import java.util.Scanner;
 
 public class tugiac {
     public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
         public String tentugiac;
-        public int chieudai , int chieurong;
+        public int chieudai ; int chieurong;
     }
-} 
-public void {
-    System.out.println ("ten tu giac:")
-    System.out.println ("chieuu dai :")
-    System.out.println ("chieuu rong :")
+    System.out.println ("ten tu giac:"+ tentugiac);
+    System.out.println ("chieuu dai :" + chieudai);
+    System.out.println ("chieuu rong :" + chieurong);
 }
